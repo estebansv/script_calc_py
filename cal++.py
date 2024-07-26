@@ -37,7 +37,7 @@ def ejecutar():
         print("4. División de dos números")
         print("5. Modulo de dos números")
         print("6. Exponente de dos números")
-        print("7. Ejecutar suma y resta en bucle infinito")
+        print("7. Ejecutar las 6 operaciones en bucle infinito")
         print("8. Salir❌\n")
 
         try:
