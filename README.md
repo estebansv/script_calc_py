@@ -1,0 +1,10 @@
+Calculadora por consola qie realiza las siguientes operaciones,
+print("\n\tOpciones:")
+        ("1. Sumar dos números")
+        ("2. Restar dos números")
+        ("3. Multiplicación de dos números")
+        ("4. División de dos números")
+        ("5. Modulo de dos números")
+        ("6. Exponente de dos números")
+        ("7. Ejecutar todas las operaciones en bucle infinito")
+        ("8. Salir❌\n")
